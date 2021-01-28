@@ -1,0 +1,12 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\obj\Debug\UnitOfWork.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\bin\Debug\UnitOfWork.BusinessLayer.dll.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\bin\Debug\UnitOfWork.BusinessLayer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\bin\Debug\UnitOfWork.BusinessLayer.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\bin\Debug\UnitOfWork.DataLayer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\bin\Debug\UnitOfWork.DataLayer.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\obj\Debug\UnitOfWork.BusinessLayer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.BusinessLayer\obj\Debug\UnitOfWork.BusinessLayer.pdb

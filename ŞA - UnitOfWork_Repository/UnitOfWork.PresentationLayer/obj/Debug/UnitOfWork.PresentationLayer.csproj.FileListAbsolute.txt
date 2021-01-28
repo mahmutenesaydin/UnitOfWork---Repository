@@ -1,0 +1,17 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\UnitOfWork.PresentationLayer.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\obj\Debug\UnitOfWork.PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\obj\Debug\UnitOfWork.PresentationLayer.Properties.Resources.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\obj\Debug\UnitOfWork.PresentationLayer.ShippersForm.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\obj\Debug\UnitOfWork.PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\UnitOfWork.PresentationLayer.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\UnitOfWork.PresentationLayer.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\UnitOfWork.BusinessLayer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\UnitOfWork.DataLayer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\UnitOfWork.BusinessLayer.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\UnitOfWork.DataLayer.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\obj\Debug\UnitOfWork.PresentationLayer.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - UnitOfWork_Repository\UnitOfWork.PresentationLayer\obj\Debug\UnitOfWork.PresentationLayer.pdb
